@@ -2,7 +2,7 @@
 #  Wine Quality Classification
 
 This project deals with predicting the quality of wine based on the inputs taken by the user.
-The model take the inputs and based on them classifies if the particular wine good or bad. 
+The model take the inputs and based on them classifies if the particular wine is of good or bad quality. 
 
 The dataset for this project has been taken from Kaggle.
 
